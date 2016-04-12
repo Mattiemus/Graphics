@@ -1,0 +1,319 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="G53GRA_Coursework.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine\Core\Drawable.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine\Core\Engine.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine\Core\GL.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine\Graphics\Texture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine\Math\Quaternion.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine\Math\Transform.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine\Math\Vector3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine\Scene\SceneObject.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine\Graphics\Mesh.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine\Graphics\Shader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine\Graphics\ShaderProgram.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine\Math\Matrix4x4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="engine\Loaders\tiny_obj_loader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="engine\Core\InputHandler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="engine\Graphics\Camera.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="engine\Core\Updatable.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="engine\Math\Vector2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="engine\Math\Vector4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="engine\Graphics\Light.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="engine\Graphics\Material.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="engine\Graphics\PrimativeGenerator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Implementation\Graphics\FlickeringLight.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Implementation\Scene\Terrain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Implementation\Scene\Tree.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Implementation\Scene\Grass.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Implementation\Scene\Fire.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Implementation\Scene\FirePit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Implementation\Scene\Bench.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Implementation\Scene\PlanetSpinner.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Implementation\Input\CameraController.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Implementation\Scene\Skybox.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Engine\Core\Drawable.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\Core\Engine.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\Core\GL.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\Graphics\Texture.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\Math\Quaternion.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\Math\Transform.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\Math\Vector3.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\Scene\SceneObject.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\Graphics\Mesh.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\Graphics\Shader.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\Graphics\ShaderProgram.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\Math\Matrix4x4.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="engine\Loaders\tiny_obj_loader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="engine\Core\InputHandler.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="engine\Graphics\Camera.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="engine\Core\Updatable.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="engine\Math\Vector2.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="engine\Math\Vector4.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="engine\Graphics\Light.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="engine\Graphics\Material.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="engine\Graphics\PrimativeGenerator.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Implementation\Graphics\FlickeringLight.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Implementation\Scene\Terrain.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Implementation\Scene\Tree.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Implementation\Scene\Grass.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Implementation\Scene\Fire.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Implementation\Scene\FirePit.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Implementation\Scene\Bench.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Implementation\Scene\PlanetSpinner.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Implementation\Input\CameraController.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Implementation\Scene\Skybox.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="Assets\Shaders\lighting.vert.fx" />
+    <FxCompile Include="Assets\Shaders\lighting.frag.fx" />
+    <FxCompile Include="assets\Shaders\leaves.vert.fx" />
+    <FxCompile Include="assets\Shaders\leaves.frag.fx" />
+    <FxCompile Include="assets\Shaders\lighting_parallax.frag.fx" />
+    <FxCompile Include="assets\Shaders\lighting_parallax.vert.fx" />
+    <FxCompile Include="assets\Shaders\grass.frag.fx" />
+    <FxCompile Include="assets\Shaders\grass.vert.fx" />
+    <FxCompile Include="assets\Shaders\fire.frag.fx" />
+    <FxCompile Include="assets\Shaders\fire.vert.fx" />
+    <FxCompile Include="assets\Shaders\sky.frag.fx" />
+    <FxCompile Include="assets\Shaders\sky.vert.fx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Assets\Textures\tilefloor_diffuse.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Textures\tilefloor_normal.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Textures\tilefloor_specular.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\textures\tilefloor_height.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\textures\pebbles_diffuse.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\textures\pebbles_height.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\textures\pebbles_normal.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\textures\pebbles_specular.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\textures\terrain_height.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\textures\dirt_diffuse.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\textures\dirt_normal.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\textures\dirt_specular.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\textures\bark_diffuse.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\textures\bark_normal.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\textures\bark_specular.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\textures\bark_height.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\textures\leaves_diffuse.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\textures\leaves_opacity.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\textures\grass_blades_diffuse.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\textures\fire_diffuse.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\textures\wood_diffuse.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\textures\wood_normal.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\textures\wood_specular.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\textures\nightsky_east.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\textures\nightsky_north.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\textures\nightsky_south.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\textures\nightsky_up.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\textures\nightsky_west.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\textures\rock_diffuse.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\textures\rock_normal.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\textures\rock_specular.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
